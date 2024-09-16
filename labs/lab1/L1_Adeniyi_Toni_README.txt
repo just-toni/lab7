@@ -1,7 +1,7 @@
 # Lab 1
 
-* *Date Created*: 13 09 2024
-* *Last Modification Date*: DD MMM YYYY
+* *Date Created*: 13 SEP 2024
+* *Last Modification Date*: 16 SEP 2024
 * *Lab URL*: <https://web.cs.dal.ca/~oadeniyi/csci3172/lab1/>
 * *GitLab URL*: <https://git.cs.dal.ca/oadeniyi/csci-3172/-/tree/main/labs/lab1>
 
