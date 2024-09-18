@@ -24,5 +24,5 @@ console.log(areaOfRectangle(20, 15));
 /**
  * 4
  * The scope of a const variable is block scope
- * let and const were added the Javascript in 2015
+ * let and const were added the Javascript in 2015 with ECMAScript 6
  */
