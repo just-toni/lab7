@@ -2,16 +2,16 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lab 4</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
       crossorigin="anonymous"
     />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lab 4</title>
   </head>
-  <body>
+  <body style="margin: 20px">
     <form class="registration" id="register" onsubmit="validate()">
       <div class="mb-3">
         <label for="firstName" class="form-label">First Name</label>
@@ -39,7 +39,7 @@
         </div>
       </div>
       <select class="form-select" aria-label="Country select">
-        <option selected>Select contry</option>
+        <option>Select contry</option>
         <option value="1">Canda</option>
         <option value="2">USA</option>
         <option value="3">Other</option>
@@ -50,7 +50,7 @@
           <input
             class="form-check-input"
             type="radio"
-            name="flexRadioDefault"
+            name="nonbinary"
             id="nonbinary"
           />
           <label class="form-check-label" for="nonbinary"> Non-binary </label>
@@ -59,27 +59,17 @@
           <input
             class="form-check-input"
             type="radio"
-            name="flexRadioDefault"
+            name="female"
             id="female"
           />
           <label class="form-check-label" for="female"> Female </label>
         </div>
         <div class="form-check">
-          <input
-            class="form-check-input"
-            type="radio"
-            name="flexRadioDefault"
-            id="male"
-          />
+          <input class="form-check-input" type="radio" name="male" id="male" />
           <label class="form-check-label" for="male"> Male </label>
         </div>
         <div class="form-check">
-          <input
-            class="form-check-input"
-            type="radio"
-            name="flexRadioDefault"
-            id="none"
-          />
+          <input class="form-check-input" type="radio" name="none" id="none" />
           <label class="form-check-label" for="none">
             Prefer not to answer
           </label>
