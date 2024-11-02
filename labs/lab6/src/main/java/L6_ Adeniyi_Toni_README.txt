@@ -2,7 +2,7 @@
 
 * *Date Created*: 24 OCT 2024
 * *Last Modification Date*: 02 NOV 2024
-* *Git URL*: <http://example.com/>
+* *Git URL*: <https://git.cs.dal.ca/oadeniyi/csci-3172/-/tree/main/labs/lab6>
 File Path: lab6/Weather.txt
 
 
