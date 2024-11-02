@@ -1,0 +1,5 @@
+City: Calgary	Weather: 5°C
+City: Halifax	Weather: 5°C
+City: Montréal	Weather: 4°C
+City: Toronto	Weather: 9°C
+City: Vancouver	Weather: 9°C
